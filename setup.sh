@@ -8,4 +8,4 @@ else
     python3 -m venv $DIR
 fi
 
-echo "file created succesfully!"
+echo "file created succesfully...!"
