@@ -7,3 +7,5 @@ if [ -e $DIR ]; then
 else
     python3 -m venv $DIR
 fi
+
+echo "file created succesfully!"
